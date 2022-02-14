@@ -5,7 +5,7 @@
   "bin": {
     "tauricon": "./bin/tauricon.js"
   },
-  "type": "module",
+  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tauri-apps/tauricon.git"
